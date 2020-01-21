@@ -6,11 +6,11 @@
 /*   By: gkurniaw <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/20 22:45:39 by gkurniaw          #+#    #+#             */
-/*   Updated: 2020/01/20 22:49:42 by gkurniaw         ###   ########.fr       */
+/*   Updated: 2020/01/20 23:22:43 by gkurniaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int		ft_count_if(char **tab, int(*f)(char*))
+int		ft_count_if(char **tab, int (*f)(char*))
 {
 	int i;
 	int j;
